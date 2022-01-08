@@ -1,0 +1,14 @@
+# Ignore unnecessary folders
+mvi/
+clutter/
+scripts-deprecated/
+
+# Ignore unnecessary files
+.directory
+inputdefault.conf
+
+# Ignore sensitive files
+watch_later/
+mpvClipboard.log
+mpvHistory.log
+bookmarker.json
